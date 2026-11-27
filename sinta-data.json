@@ -1,0 +1,1215 @@
+{
+  "updatedAt": null,
+  "source": "seed (data bawaan dashboard)",
+  "researchers": {
+    "bAR5o84AAAAJ": {
+      "sintaId": "260404",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/260404",
+      "sintaOverall": 15929,
+      "sinta3Yr": 2322,
+      "scopus": {
+        "articles": 416,
+        "citations": 3578,
+        "citedDoc": 319,
+        "hIndex": 28,
+        "i10": 104,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 1812,
+        "citations": 20394,
+        "citedDoc": 1326,
+        "hIndex": 63,
+        "i10": 503,
+        "gIndex": 3
+      },
+      "wos": {
+        "articles": 165,
+        "citations": 1281,
+        "citedDoc": 137,
+        "hIndex": 16,
+        "i10": 39,
+        "gIndex": 2
+      },
+      "status": "seed"
+    },
+    "gFwPunYAAAAJ": {
+      "sintaId": "5986267",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5986267",
+      "sintaOverall": 2480,
+      "sinta3Yr": 520,
+      "scopus": {
+        "articles": 68,
+        "citations": 445,
+        "citedDoc": 52,
+        "hIndex": 12,
+        "i10": 15,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 195,
+        "citations": 2745,
+        "citedDoc": 130,
+        "hIndex": 27,
+        "i10": 65,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 18,
+        "citations": 85,
+        "citedDoc": 14,
+        "hIndex": 5,
+        "i10": 2,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "zjA7qucAAAAJ": {
+      "sintaId": "5985072",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5985072",
+      "sintaOverall": 465,
+      "sinta3Yr": 92,
+      "scopus": {
+        "articles": 12,
+        "citations": 26,
+        "citedDoc": 7,
+        "hIndex": 3,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 29,
+        "citations": 69,
+        "citedDoc": 14,
+        "hIndex": 5,
+        "i10": 2,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    },
+    "fdbWCZMAAAAJ": {
+      "sintaId": "5985106",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5985106",
+      "sintaOverall": 890,
+      "sinta3Yr": 245,
+      "scopus": {
+        "articles": 22,
+        "citations": 98,
+        "citedDoc": 17,
+        "hIndex": 6,
+        "i10": 3,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 64,
+        "citations": 295,
+        "citedDoc": 38,
+        "hIndex": 11,
+        "i10": 11,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 5,
+        "citations": 24,
+        "citedDoc": 4,
+        "hIndex": 3,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "j-M37wIAAAAJ": {
+      "sintaId": "5985224",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5985224",
+      "sintaOverall": 602,
+      "sinta3Yr": 162,
+      "scopus": {
+        "articles": 14,
+        "citations": 39,
+        "citedDoc": 8,
+        "hIndex": 3,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 122,
+        "citations": 114,
+        "citedDoc": 35,
+        "hIndex": 5,
+        "i10": 3,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    },
+    "HPgazjsAAAAJ": {
+      "sintaId": "5976964",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5976964",
+      "sintaOverall": 1580,
+      "sinta3Yr": 365,
+      "scopus": {
+        "articles": 36,
+        "citations": 192,
+        "citedDoc": 28,
+        "hIndex": 8,
+        "i10": 5,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 112,
+        "citations": 1164,
+        "citedDoc": 74,
+        "hIndex": 16,
+        "i10": 25,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 8,
+        "citations": 32,
+        "citedDoc": 6,
+        "hIndex": 3,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "30y4AvYAAAAJ": {
+      "sintaId": "5985239",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5985239",
+      "sintaOverall": 47,
+      "sinta3Yr": 3,
+      "scopus": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "gscholar": {
+        "articles": 7,
+        "citations": 4,
+        "citedDoc": 3,
+        "hIndex": 1,
+        "i10": 0,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    },
+    "JaO2PaIAAAAJ": {
+      "sintaId": "5984908",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5984908",
+      "sintaOverall": 1741,
+      "sinta3Yr": 389,
+      "scopus": {
+        "articles": 45,
+        "citations": 177,
+        "citedDoc": 32,
+        "hIndex": 7,
+        "i10": 4,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 131,
+        "citations": 584,
+        "citedDoc": 81,
+        "hIndex": 12,
+        "i10": 14,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 18,
+        "citations": 46,
+        "citedDoc": 11,
+        "hIndex": 2,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "tChNIk4AAAAJ": {
+      "sintaId": "5984828",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5984828",
+      "sintaOverall": 2055,
+      "sinta3Yr": 638,
+      "scopus": {
+        "articles": 47,
+        "citations": 269,
+        "citedDoc": 40,
+        "hIndex": 9,
+        "i10": 9,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 82,
+        "citations": 343,
+        "citedDoc": 51,
+        "hIndex": 9,
+        "i10": 9,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 20,
+        "citations": 96,
+        "citedDoc": 17,
+        "hIndex": 6,
+        "i10": 3,
+        "gIndex": 8
+      },
+      "status": "seed"
+    },
+    "INIYa30AAAAJ": {
+      "sintaId": "5984876",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5984876",
+      "sintaOverall": 645,
+      "sinta3Yr": 215,
+      "scopus": {
+        "articles": 11,
+        "citations": 34,
+        "citedDoc": 8,
+        "hIndex": 3,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 38,
+        "citations": 152,
+        "citedDoc": 24,
+        "hIndex": 5,
+        "i10": 2,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 2,
+        "citations": 4,
+        "citedDoc": 2,
+        "hIndex": 1,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "iCqB85IAAAAJ": {
+      "sintaId": "5992643",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5992643",
+      "sintaOverall": 2890,
+      "sinta3Yr": 640,
+      "scopus": {
+        "articles": 64,
+        "citations": 485,
+        "citedDoc": 51,
+        "hIndex": 12,
+        "i10": 16,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 235,
+        "citations": 3783,
+        "citedDoc": 168,
+        "hIndex": 29,
+        "i10": 97,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 12,
+        "citations": 54,
+        "citedDoc": 9,
+        "hIndex": 4,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "2fp_srUAAAAJ": {
+      "sintaId": "51568",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/51568",
+      "sintaOverall": 6840,
+      "sinta3Yr": 1490,
+      "scopus": {
+        "articles": 185,
+        "citations": 1640,
+        "citedDoc": 142,
+        "hIndex": 21,
+        "i10": 48,
+        "gIndex": 2
+      },
+      "gscholar": {
+        "articles": 365,
+        "citations": 5037,
+        "citedDoc": 260,
+        "hIndex": 27,
+        "i10": 123,
+        "gIndex": 3
+      },
+      "wos": {
+        "articles": 58,
+        "citations": 495,
+        "citedDoc": 46,
+        "hIndex": 12,
+        "i10": 15,
+        "gIndex": 2
+      },
+      "status": "seed"
+    },
+    "yHBcAE4AAAAJ": {
+      "sintaId": "51570",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/51570",
+      "sintaOverall": 6120,
+      "sinta3Yr": 1280,
+      "scopus": {
+        "articles": 168,
+        "citations": 1890,
+        "citedDoc": 136,
+        "hIndex": 22,
+        "i10": 52,
+        "gIndex": 2
+      },
+      "gscholar": {
+        "articles": 310,
+        "citations": 4297,
+        "citedDoc": 225,
+        "hIndex": 30,
+        "i10": 108,
+        "gIndex": 3
+      },
+      "wos": {
+        "articles": 64,
+        "citations": 780,
+        "citedDoc": 54,
+        "hIndex": 15,
+        "i10": 22,
+        "gIndex": 2
+      },
+      "status": "seed"
+    },
+    "mFbNV94AAAAJ": {
+      "sintaId": "6101816",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6101816",
+      "sintaOverall": 2651,
+      "sinta3Yr": 869,
+      "scopus": {
+        "articles": 51,
+        "citations": 527,
+        "citedDoc": 43,
+        "hIndex": 12,
+        "i10": 15,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 151,
+        "citations": 766,
+        "citedDoc": 86,
+        "hIndex": 14,
+        "i10": 19,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 17,
+        "citations": 181,
+        "citedDoc": 15,
+        "hIndex": 6,
+        "i10": 2,
+        "gIndex": 5
+      },
+      "status": "seed"
+    },
+    "InoFYG0AAAAJ": {
+      "sintaId": "5999489",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5999489",
+      "sintaOverall": 918,
+      "sinta3Yr": 238,
+      "scopus": {
+        "articles": 23,
+        "citations": 47,
+        "citedDoc": 13,
+        "hIndex": 4,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 75,
+        "citations": 255,
+        "citedDoc": 36,
+        "hIndex": 9,
+        "i10": 9,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 5,
+        "citations": 1,
+        "citedDoc": 1,
+        "hIndex": 1,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "FJbq7BUAAAAJ": {
+      "sintaId": "5985651",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5985651",
+      "sintaOverall": 965,
+      "sinta3Yr": 340,
+      "scopus": {
+        "articles": 16,
+        "citations": 245,
+        "citedDoc": 14,
+        "hIndex": 7,
+        "i10": 5,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 42,
+        "citations": 423,
+        "citedDoc": 28,
+        "hIndex": 8,
+        "i10": 8,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 6,
+        "citations": 142,
+        "citedDoc": 6,
+        "hIndex": 5,
+        "i10": 3,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "Nf-fLQgAAAAJ": {
+      "sintaId": "5974033",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5974033",
+      "sintaOverall": 3994,
+      "sinta3Yr": 800,
+      "scopus": {
+        "articles": 126,
+        "citations": 1131,
+        "citedDoc": 104,
+        "hIndex": 18,
+        "i10": 38,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 365,
+        "citations": 2553,
+        "citedDoc": 244,
+        "hIndex": 25,
+        "i10": 78,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 22,
+        "citations": 102,
+        "citedDoc": 19,
+        "hIndex": 8,
+        "i10": 6,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "1uGlBOYAAAAJ": {
+      "sintaId": "5999848",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5999848",
+      "sintaOverall": 2340,
+      "sinta3Yr": 585,
+      "scopus": {
+        "articles": 52,
+        "citations": 342,
+        "citedDoc": 41,
+        "hIndex": 10,
+        "i10": 11,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 175,
+        "citations": 1707,
+        "citedDoc": 128,
+        "hIndex": 22,
+        "i10": 54,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 9,
+        "citations": 42,
+        "citedDoc": 7,
+        "hIndex": 4,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "RXvW3z4AAAAJ": {
+      "sintaId": "6004315",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6004315",
+      "sintaOverall": 815,
+      "sinta3Yr": 230,
+      "scopus": {
+        "articles": 18,
+        "citations": 64,
+        "citedDoc": 13,
+        "hIndex": 5,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 58,
+        "citations": 236,
+        "citedDoc": 36,
+        "hIndex": 9,
+        "i10": 9,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 3,
+        "citations": 8,
+        "citedDoc": 2,
+        "hIndex": 2,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "y_qI0ycAAAAJ": {
+      "sintaId": "5985229",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5985229",
+      "sintaOverall": 1837,
+      "sinta3Yr": 245,
+      "scopus": {
+        "articles": 19,
+        "citations": 57,
+        "citedDoc": 17,
+        "hIndex": 9,
+        "i10": 8,
+        "gIndex": 3
+      },
+      "gscholar": {
+        "articles": 122,
+        "citations": 140,
+        "citedDoc": 34,
+        "hIndex": 7,
+        "i10": 3,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    },
+    "Tisv2W8AAAAJ": {
+      "sintaId": "5974027",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5974027",
+      "sintaOverall": 2610,
+      "sinta3Yr": 560,
+      "scopus": {
+        "articles": 48,
+        "citations": 325,
+        "citedDoc": 38,
+        "hIndex": 10,
+        "i10": 10,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 210,
+        "citations": 2932,
+        "citedDoc": 154,
+        "hIndex": 26,
+        "i10": 85,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 10,
+        "citations": 48,
+        "citedDoc": 8,
+        "hIndex": 4,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "jxOMjIEAAAAJ": {
+      "sintaId": "5985158",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5985158",
+      "sintaOverall": 745,
+      "sinta3Yr": 210,
+      "scopus": {
+        "articles": 14,
+        "citations": 168,
+        "citedDoc": 12,
+        "hIndex": 6,
+        "i10": 4,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 26,
+        "citations": 191,
+        "citedDoc": 16,
+        "hIndex": 6,
+        "i10": 4,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 11,
+        "citations": 145,
+        "citedDoc": 10,
+        "hIndex": 5,
+        "i10": 4,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "DTdprdAAAAAJ": {
+      "sintaId": "5989002",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5989002",
+      "sintaOverall": 790,
+      "sinta3Yr": 205,
+      "scopus": {
+        "articles": 17,
+        "citations": 58,
+        "citedDoc": 12,
+        "hIndex": 4,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 62,
+        "citations": 235,
+        "citedDoc": 34,
+        "hIndex": 9,
+        "i10": 8,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 2,
+        "citations": 6,
+        "citedDoc": 2,
+        "hIndex": 1,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "V-LFkt8AAAAJ": {
+      "sintaId": "5999510",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5999510",
+      "sintaOverall": 730,
+      "sinta3Yr": 215,
+      "scopus": {
+        "articles": 15,
+        "citations": 46,
+        "citedDoc": 11,
+        "hIndex": 4,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 48,
+        "citations": 200,
+        "citedDoc": 30,
+        "hIndex": 9,
+        "i10": 9,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 2,
+        "citations": 5,
+        "citedDoc": 2,
+        "hIndex": 1,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "H8NYKYEAAAAJ": {
+      "sintaId": "260407",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/260407",
+      "sintaOverall": 5480,
+      "sinta3Yr": 1120,
+      "scopus": {
+        "articles": 145,
+        "citations": 1180,
+        "citedDoc": 116,
+        "hIndex": 18,
+        "i10": 36,
+        "gIndex": 2
+      },
+      "gscholar": {
+        "articles": 295,
+        "citations": 3435,
+        "citedDoc": 218,
+        "hIndex": 28,
+        "i10": 99,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 42,
+        "citations": 310,
+        "citedDoc": 34,
+        "hIndex": 10,
+        "i10": 11,
+        "gIndex": 2
+      },
+      "status": "seed"
+    },
+    "r5FaR3cAAAAJ": {
+      "sintaId": "5999498",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/5999498",
+      "sintaOverall": 1420,
+      "sinta3Yr": 280,
+      "scopus": {
+        "articles": 28,
+        "citations": 165,
+        "citedDoc": 22,
+        "hIndex": 7,
+        "i10": 4,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 96,
+        "citations": 855,
+        "citedDoc": 62,
+        "hIndex": 16,
+        "i10": 21,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 5,
+        "citations": 21,
+        "citedDoc": 4,
+        "hIndex": 3,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "G2gL_QUAAAAJ": {
+      "sintaId": "6652694",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6652694",
+      "sintaOverall": 762,
+      "sinta3Yr": 267,
+      "scopus": {
+        "articles": 21,
+        "citations": 49,
+        "citedDoc": 13,
+        "hIndex": 5,
+        "i10": 1,
+        "gIndex": 4
+      },
+      "gscholar": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    },
+    "YEumFjAAAAAJ": {
+      "sintaId": "6152276",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6152276",
+      "sintaOverall": 1341,
+      "sinta3Yr": 375,
+      "scopus": {
+        "articles": 32,
+        "citations": 213,
+        "citedDoc": 30,
+        "hIndex": 7,
+        "i10": 6,
+        "gIndex": 2
+      },
+      "gscholar": {
+        "articles": 81,
+        "citations": 343,
+        "citedDoc": 50,
+        "hIndex": 10,
+        "i10": 12,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 21,
+        "citations": 77,
+        "citedDoc": 17,
+        "hIndex": 5,
+        "i10": 2,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "XegB3pEAAAAJ": {
+      "sintaId": "6659260",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6659260",
+      "sintaOverall": 1120,
+      "sinta3Yr": 390,
+      "scopus": {
+        "articles": 24,
+        "citations": 95,
+        "citedDoc": 18,
+        "hIndex": 5,
+        "i10": 2,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 62,
+        "citations": 526,
+        "citedDoc": 41,
+        "hIndex": 11,
+        "i10": 12,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 4,
+        "citations": 14,
+        "citedDoc": 3,
+        "hIndex": 2,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "GI-0f34AAAAJ": {
+      "sintaId": "6657382",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6657382",
+      "sintaOverall": 1690,
+      "sinta3Yr": 545,
+      "scopus": {
+        "articles": 34,
+        "citations": 178,
+        "citedDoc": 26,
+        "hIndex": 7,
+        "i10": 4,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 128,
+        "citations": 1289,
+        "citedDoc": 88,
+        "hIndex": 21,
+        "i10": 45,
+        "gIndex": 2
+      },
+      "wos": {
+        "articles": 6,
+        "citations": 22,
+        "citedDoc": 5,
+        "hIndex": 3,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "tzkYQnEAAAAJ": {
+      "sintaId": "6670789",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6670789",
+      "sintaOverall": 1400,
+      "sinta3Yr": 466,
+      "scopus": {
+        "articles": 39,
+        "citations": 231,
+        "citedDoc": 28,
+        "hIndex": 8,
+        "i10": 8,
+        "gIndex": 5
+      },
+      "gscholar": {
+        "articles": 61,
+        "citations": 362,
+        "citedDoc": 39,
+        "hIndex": 12,
+        "i10": 17,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 12,
+        "citations": 56,
+        "citedDoc": 12,
+        "hIndex": 4,
+        "i10": 1,
+        "gIndex": 7
+      },
+      "status": "seed"
+    },
+    "NBxsZPsAAAAJ": {
+      "sintaId": "6659894",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6659894",
+      "sintaOverall": 2554,
+      "sinta3Yr": 845,
+      "scopus": {
+        "articles": 63,
+        "citations": 389,
+        "citedDoc": 45,
+        "hIndex": 12,
+        "i10": 15,
+        "gIndex": 2
+      },
+      "gscholar": {
+        "articles": 97,
+        "citations": 583,
+        "citedDoc": 61,
+        "hIndex": 14,
+        "i10": 17,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 15,
+        "citations": 33,
+        "citedDoc": 14,
+        "hIndex": 8,
+        "i10": 8,
+        "gIndex": 2
+      },
+      "status": "seed"
+    },
+    "nD4Xoe4AAAAJ": {
+      "sintaId": "6747993",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6747993",
+      "sintaOverall": 2098,
+      "sinta3Yr": 937,
+      "scopus": {
+        "articles": 45,
+        "citations": 174,
+        "citedDoc": 28,
+        "hIndex": 8,
+        "i10": 6,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 84,
+        "citations": 260,
+        "citedDoc": 50,
+        "hIndex": 9,
+        "i10": 8,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 7,
+        "citations": 30,
+        "citedDoc": 6,
+        "hIndex": 4,
+        "i10": 0,
+        "gIndex": 6
+      },
+      "status": "seed"
+    },
+    "Y-saX4MAAAAJ": {
+      "sintaId": "6747983",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6747983",
+      "sintaOverall": 840,
+      "sinta3Yr": 310,
+      "scopus": {
+        "articles": 19,
+        "citations": 68,
+        "citedDoc": 14,
+        "hIndex": 5,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 38,
+        "citations": 194,
+        "citedDoc": 24,
+        "hIndex": 6,
+        "i10": 2,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 4,
+        "citations": 15,
+        "citedDoc": 3,
+        "hIndex": 2,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "status": "seed"
+    },
+    "pn4aKkoAAAAJ": {
+      "sintaId": "6782665",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6782665",
+      "sintaOverall": 215,
+      "sinta3Yr": 110,
+      "scopus": {
+        "articles": 4,
+        "citations": 8,
+        "citedDoc": 3,
+        "hIndex": 2,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 11,
+        "citations": 17,
+        "citedDoc": 6,
+        "hIndex": 2,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    },
+    "4dV0XF0AAAAJ": {
+      "sintaId": "6852129",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6852129",
+      "sintaOverall": 785,
+      "sinta3Yr": 246,
+      "scopus": {
+        "articles": 49,
+        "citations": 1186,
+        "citedDoc": 43,
+        "hIndex": 19,
+        "i10": 31,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 59,
+        "citations": 2010,
+        "citedDoc": 50,
+        "hIndex": 22,
+        "i10": 41,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    },
+    "cqrcA9EAAAAJ": {
+      "sintaId": "6905700",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6905700",
+      "sintaOverall": 145,
+      "sinta3Yr": 85,
+      "scopus": {
+        "articles": 2,
+        "citations": 4,
+        "citedDoc": 2,
+        "hIndex": 1,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 12,
+        "citations": 8,
+        "citedDoc": 5,
+        "hIndex": 2,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    },
+    "46NaiY8AAAAJ": {
+      "sintaId": "6881526",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6881526",
+      "sintaOverall": 260,
+      "sinta3Yr": 195,
+      "scopus": {
+        "articles": 3,
+        "citations": 9,
+        "citedDoc": 2,
+        "hIndex": 2,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 16,
+        "citations": 44,
+        "citedDoc": 8,
+        "hIndex": 2,
+        "i10": 1,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    },
+    "zwimajUAAAAJ": {
+      "sintaId": "6662478",
+      "url": "https://sinta.kemdiktisaintek.go.id/authors/profile/6662478",
+      "sintaOverall": 430,
+      "sinta3Yr": 245,
+      "scopus": {
+        "articles": 6,
+        "citations": 18,
+        "citedDoc": 4,
+        "hIndex": 2,
+        "i10": 0,
+        "gIndex": 1
+      },
+      "gscholar": {
+        "articles": 28,
+        "citations": 114,
+        "citedDoc": 15,
+        "hIndex": 4,
+        "i10": 2,
+        "gIndex": 1
+      },
+      "wos": {
+        "articles": 0,
+        "citations": 0,
+        "citedDoc": 0,
+        "hIndex": 0,
+        "i10": 0,
+        "gIndex": 0
+      },
+      "status": "seed"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sinta-fisika-um",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-sinta.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}

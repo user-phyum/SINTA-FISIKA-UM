@@ -1,0 +1,46 @@
+name: Update data SINTA
+
+on:
+  schedule:
+    - cron: '17 19 * * *'   # setiap hari pukul 02.17 WIB (19.17 UTC)
+  workflow_dispatch:          # tombol "Run workflow" untuk menjalankan manual
+
+permissions:
+  contents: write             # izin agar robot boleh commit file data
+
+concurrency:
+  group: update-sinta
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Ambil isi repositori
+        uses: actions/checkout@v4
+
+      - name: Siapkan Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Pasang Playwright + Chromium
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Baca 39 profil SINTA
+        run: node scripts/scrape-sinta.mjs
+
+      - name: Simpan hasil (commit jika ada perubahan)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add data/sinta-data.json
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan angka."
+          else
+            git commit -m "Update data SINTA $(date -u +%F)"
+            git push
+          fi
