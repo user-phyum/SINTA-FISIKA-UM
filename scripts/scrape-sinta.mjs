@@ -13,6 +13,9 @@ const PROFILE_URL = (id) => `https://sinta.kemdiktisaintek.go.id/authors/profile
 const DELAY_MS = 4000;       // jeda antar-profil agar tidak membebani server SINTA
 const PAGE_TIMEOUT = 45000;  // batas waktu memuat satu halaman
 const MAX_RETRY = 2;         // percobaan ulang per profil
+const EARLY_ABORT = 3;       // berhenti jika N profil pertama semuanya gagal
+const DEBUG_DIR = 'debug';   // screenshot & isi halaman saat gagal (untuk diagnosis)
+const MAX_DEBUG = 3;
 
 const METRIC_ROWS = {
     articles: 'Article',
@@ -93,21 +96,43 @@ async function main() {
     });
     const page = await context.newPage();
 
+    await fs.mkdir(DEBUG_DIR, { recursive: true });
     let ok = 0;
+    let debugSaved = 0;
     for (const [idx, person] of roster.entries()) {
         const url = PROFILE_URL(person.sintaId);
         const prev = previous.researchers?.[person.scholarId] || {};
         let parsed = null;
 
+        let lastText = '';
+        let lastStatus = null;
         for (let attempt = 1; attempt <= MAX_RETRY && !parsed; attempt++) {
             try {
-                await page.goto(url, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+                const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: PAGE_TIMEOUT });
+                lastStatus = resp ? resp.status() : null;
                 await page.waitForSelector('text=SINTA Score Overall', { timeout: 15000 }).catch(() => {});
-                parsed = parseProfileText(await page.innerText('body'));
+                lastText = await page.innerText('body').catch(() => '');
+                parsed = parseProfileText(lastText);
             } catch (err) {
+                lastText = `ERROR: ${err.message.split('\n')[0]}`;
                 console.warn(`   percobaan ${attempt} gagal: ${err.message.split('\n')[0]}`);
             }
             if (!parsed && attempt < MAX_RETRY) await sleep(DELAY_MS);
+        }
+
+        if (!parsed) {
+            // Catat apa yang sebenarnya tampil, untuk diagnosis
+            const title = await page.title().catch(() => '');
+            const snippet = lastText.replace(/\s+/g, ' ').trim().slice(0, 300);
+            console.log(`   ↳ HTTP ${lastStatus} | judul: "${title}" | URL akhir: ${page.url()}`);
+            console.log(`   ↳ cuplikan isi: ${snippet || '(kosong)'}`);
+            if (debugSaved < MAX_DEBUG) {
+                debugSaved++;
+                const base = `${DEBUG_DIR}/gagal-${person.sintaId}`;
+                await page.screenshot({ path: `${base}.png`, fullPage: true }).catch(() => {});
+                await fs.writeFile(`${base}.html`, await page.content().catch(() => '')).catch(() => {});
+                await fs.writeFile(`${base}.txt`, lastText).catch(() => {});
+            }
         }
 
         const tag = `[${idx + 1}/${roster.length}] ${person.name || person.scholarId}`;
@@ -133,6 +158,11 @@ async function main() {
                 lastAttempt: new Date().toISOString()
             };
             console.log(`• ${tag} — gagal dibaca, memakai data sebelumnya`);
+        }
+        if (idx + 1 === EARLY_ABORT && ok === 0) {
+            console.error(`\n${EARLY_ABORT} profil pertama semuanya gagal — robot dihentikan lebih awal.`);
+            console.error('Lihat folder "debug" pada bagian Artifacts untuk screenshot halaman SINTA.');
+            break;
         }
         await sleep(DELAY_MS);
     }
